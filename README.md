@@ -2,7 +2,7 @@
 
 ## Download & Setup
 
-- Clone the repo: `https://github.com/chiomig/calculator`
+- Clone the repo: `https://github.com/chiomig/hw1_calculator.git`
 - Navigate into the app: `cd calculator`
 - Install Rspec: `gem install rspec`
 - Run the tests: `rspec spec/calculator_spec.rb`
